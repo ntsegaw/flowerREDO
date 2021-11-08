@@ -1,0 +1,22 @@
+name,rating,pricing,num_reviews,street_address,is_closed,review_count,categories,city,distance,longitude,latitude
+Loudoun D Floral,4.5,2.0,16,,False,16,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1491.7594967071484,-77.53473,39.13022
+J Morris Flowers,4.0,3.0,27,120 East Market St,False,27,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1314.0948450861565,-77.5614448,39.1142987
+CPK Floral Designs,5.0,,12,,False,12,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'seasonaldecorservices', 'title': 'Holiday Decorating Services'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1491.7594967071484,-77.5319442749023,39.1199073791504
+Jerry's Flowers & Gifts,4.0,2.0,22,700 Fieldstone Dr NE,False,22,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1147.8314981575747,-77.545801,39.125919
+Springvale Floral,5.0,,4,,False,4,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}, {'alias': 'florists', 'title': 'Florists'}]",Leesburg,1491.7594967071484,-77.56952,39.11205
+House Of Redman,5.0,,1,206 Loudoun St SW,False,1,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1858.9890023779826,-77.56784,39.11513
+Holly Heider Chapple Flowers,4.0,,3,,False,3,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1491.7594967060509,-77.56654,39.10848
+Meadows Farms Nurseries - Leesburg,3.5,2.0,38,170 Keystone Ct,False,38,"[{'alias': 'gardening', 'title': 'Nurseries & Gardening'}, {'alias': 'christmastrees', 'title': 'Christmas Trees'}]",Leesburg,2743.6017900730844,-77.52775791628646,39.095593679348404
+Wild Green Yonder,5.0,,2,106 Loudoun St SW,False,2,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1773.4768271097314,-77.5668451,39.1148988
+Giant,4.0,2.0,12,61 Catoctin Cir NE,False,12,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'florists', 'title': 'Florists'}, {'alias': 'grocery', 'title': 'Grocery'}]",Leesburg,587.2526127850668,-77.55206561395218,39.112812147521666
+Lucy Blossoms,5.0,,1,,False,1,"[{'alias': 'balloonservices', 'title': 'Balloon Services'}]",Leesburg,5.938138231852345,-77.54631624999999,39.11568535
+Affordable Arrangements,5.0,,2,,False,2,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1491.7594967071484,-77.5694046020508,39.1103858947754
+The Home Depot,2.5,2.0,56,280 Fort Evans Rd,False,56,"[{'alias': 'hardware', 'title': 'Hardware Stores'}, {'alias': 'gardening', 'title': 'Nurseries & Gardening'}, {'alias': 'appliances', 'title': 'Appliances'}]",Leesburg,1256.0990160896167,-77.5337147712708,39.1099668048752
+Eyetopia,4.5,3.0,19,223 Loudoun St SE,False,19,"[{'alias': 'opticians', 'title': 'Eyewear & Opticians'}, {'alias': 'accessories', 'title': 'Accessories'}]",Leesburg,1290.498500280762,-77.5609060196812,39.113092876464
+Leesburg Premium Outlets,3.5,2.0,234,241 Fort Evans Rd NE,False,234,"[{'alias': 'shoppingcenters', 'title': 'Shopping Centers'}, {'alias': 'outlet_stores', 'title': 'Outlet Stores'}]",Leesburg,1380.4077484721631,-77.5402962,39.10412833196009
+Leesburg Bridal & Tuxedo,3.5,2.0,58,705 E Market St,False,58,"[{'alias': 'bridal', 'title': 'Bridal'}, {'alias': 'formalwear', 'title': 'Formal Wear'}, {'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}]",Leesburg,1127.0463631342843,-77.5490487999141,39.1057215693442
+Le Reve Bridal & Tuxedo,3.5,2.0,44,213 Loudoun St SE,False,44,"[{'alias': 'bridal', 'title': 'Bridal'}]",Leesburg,1306.632481497869,-77.5610899,39.11299
+White’s Ferry Manor,3.5,,3,42476 Whites Ferry Rd,False,3,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wedding_planning', 'title': 'Wedding Planning'}]",Leesburg,4448.6792949829905,-77.52631,39.15254
+Le Creuset Outlet Store,3.5,3.0,13,241 Fort Evans Rd NE,False,13,"[{'alias': 'tableware', 'title': 'Tableware'}, {'alias': 'kitchensupplies', 'title': 'Kitchen Supplies'}]",Leesburg,1198.1707829116874,-77.538337,39.1068098
+Designer Goldsmiths,1.0,,1,203A Harrison St SE,False,1,"[{'alias': 'jewelry', 'title': 'Jewelry'}, {'alias': 'jewelryrepair', 'title': 'Jewelry Repair'}]",Leesburg,1487.4460075946774,-77.563109,39.112622
+Spring Lake Hoa,1.0,,1,18531 Orchid Dr,False,1,[],Leesburg,2588.244502349371,-77.52034,39.10415
