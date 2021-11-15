@@ -1,7 +1,7 @@
 name,rating,pricing,num_reviews,street_address,is_closed,review_count,categories,city,distance,longitude,latitude
 Loudoun D Floral,4.5,2.0,16,,False,16,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1491.7594967071484,-77.53473,39.13022
 J Morris Flowers,4.0,3.0,27,120 East Market St,False,27,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1314.0948450861565,-77.5614448,39.1142987
-CPK Floral Designs,5.0,,12,,False,12,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'seasonaldecorservices', 'title': 'Holiday Decorating Services'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1491.7594967071484,-77.5319442749023,39.1199073791504
+CPK Floral Designs,5.0,,13,,False,13,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'seasonaldecorservices', 'title': 'Holiday Decorating Services'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1491.7594967071484,-77.5319442749023,39.1199073791504
 Jerry's Flowers & Gifts,4.0,2.0,22,700 Fieldstone Dr NE,False,22,"[{'alias': 'florists', 'title': 'Florists'}]",Leesburg,1147.8314981575747,-77.545801,39.125919
 Springvale Floral,5.0,,4,,False,4,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}, {'alias': 'florists', 'title': 'Florists'}]",Leesburg,1491.7594967071484,-77.56952,39.11205
 House Of Redman,5.0,,1,206 Loudoun St SW,False,1,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Leesburg,1858.9890023779826,-77.56784,39.11513
