@@ -1,9 +1,9 @@
 name,rating,pricing,num_reviews,street_address,is_closed,review_count,categories,city,distance,longitude,latitude
-"Bell Flowers, Inc.",5.0,2.0,71,8947 Brookville Rd,False,71,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,2972.2027211689892,-77.052067077771,39.0030091782617
-Danisa's Wholesale Fresh Flowers Inc,4.5,2.0,28,8870 Monard Dr,False,28,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,3567.8958193897115,-77.059157,39.001541
+"Bell Flowers, Inc.",5.0,2.0,70,8947 Brookville Rd,False,70,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,2972.2027211689892,-77.052067077771,39.0030091782617
+Danisa's Wholesale Fresh Flowers Inc,4.5,2.0,27,8870 Monard Dr,False,27,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,3567.8958193897115,-77.059157,39.001541
 Potomac Floral Wholesale,3.5,2.0,76,2403 Linden Ln,False,76,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'wholesale_stores', 'title': 'Wholesale Stores'}]",Silver Spring,3155.3021436486033,-77.0503376,39.0096488
+Garden Vivien,5.0,,1,2223 Kansas Ave,False,1,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,2721.7721418771043,-77.049093,39.00329
 J R Wright & Sons,4.5,2.0,27,12621 New Hampshire Ave,False,27,"[{'alias': 'gardening', 'title': 'Nurseries & Gardening'}]",Silver Spring,7336.147522612828,-76.99883,39.06408
-Garden Vivien,5.0,,2,2223 Kansas Ave,False,2,"[{'alias': 'florists', 'title': 'Florists'}]",Silver Spring,2721.7721418771043,-77.049093,39.00329
 Da Vinci's Florist,4.0,2.0,37,2756 Garfield Ave,False,37,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'partyequipmentrentals', 'title': 'Party Equipment Rentals'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Silver Spring,3451.436877791858,-77.0577786380471,39.0018812943556
 Creative Floral Designs,3.5,2.0,27,12158 Tech Rd,False,27,"[{'alias': 'florists', 'title': 'Florists'}, {'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Silver Spring,7528.587951187222,-76.9671692,39.0547317
 Edible Arrangements,2.5,,15,915 Bonifant St,False,15,"[{'alias': 'giftshops', 'title': 'Gift Shops'}, {'alias': 'chocolate', 'title': 'Chocolatiers & Shops'}, {'alias': 'florists', 'title': 'Florists'}]",Silver Spring,838.4865606230823,-77.0246125268926,38.9942319801585
@@ -13,7 +13,7 @@ Citiflowers,2.5,,11,2321 Stewart Ave,False,11,"[{'alias': 'florists', 'title': '
 Flower Avenue Market,2.0,1.0,2,8809 Flower Ave,False,2,"[{'alias': 'fleamarkets', 'title': 'Flea Markets'}]",Silver Spring,1257.6161095174807,-77.003387,39.000038
 Flowers By Daniel,5.0,,1,,False,1,"[{'alias': 'eventservices', 'title': 'Event Planning & Services'}, {'alias': 'florists', 'title': 'Florists'}]",Silver Spring,1042.9886097519068,-77.0288696289062,38.9966812133789
 Sweet Stems Floral,5.0,,2,3020 Beethoven Way,False,2,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}]",Silver Spring,9928.829935752308,-76.94592,39.069223
-RISE Dispensaries - Silver Spring,5.0,,2,7900 Fenton St,False,2,"[{'alias': 'cannabis_clinics', 'title': 'Cannabis Clinics'}, {'alias': 'vitaminssupplements', 'title': 'Vitamins & Supplements'}, {'alias': 'vapeshops', 'title': 'Vape Shops'}]",Silver Spring,1310.8771595384706,-77.02418,38.989
+RISE Dispensaries - Silver Spring,5.0,,1,7900 Fenton St,False,1,"[{'alias': 'cannabis_clinics', 'title': 'Cannabis Clinics'}, {'alias': 'vitaminssupplements', 'title': 'Vitamins & Supplements'}, {'alias': 'vapeshops', 'title': 'Vape Shops'}]",Silver Spring,1310.8771595384706,-77.02418,38.989
 Fiesta Rental Bounce,5.0,,1,,False,1,"[{'alias': 'partyequipmentrentals', 'title': 'Party Equipment Rentals'}, {'alias': 'balloonservices', 'title': 'Balloon Services'}]",Silver Spring,5007.226265327675,-77.02887,38.99668
 Dollar City,4.0,,4,11231 New Hampshire Ave,False,4,"[{'alias': 'discountstore', 'title': 'Discount Store'}]",Silver Spring,5295.523909832566,-76.98822,39.041351
 Fenton Street Market,4.0,2.0,10,,False,10,"[{'alias': 'artsandcrafts', 'title': 'Arts & Crafts'}, {'alias': 'antiques', 'title': 'Antiques'}]",Silver Spring,1900.8957444685095,-77.02902,38.99355
